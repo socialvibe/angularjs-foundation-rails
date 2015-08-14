@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.date        =  Time.new.strftime("%Y-%m-%d")
   s.summary     = 'AngularJS Foundation on Rails'
   s.description = 'Injects AngularJS Foundation directives into your asset pipeline.'
-  s.authors     = ["Santiago Doldán"]
+  s.authors     = ["Santiago Doldan"]
   s.email       = 'santiagodolte@gmail.com'
   s.files       = Dir["{lib,vendor}/**/*"] + ["LICENSE", "README.md"]
   s.homepage    = 'https://github.com/santiagodoldan/angularjs-foundation-rails'
